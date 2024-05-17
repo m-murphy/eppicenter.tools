@@ -1,0 +1,4 @@
+Package: eppicenter.tools
+Version: 0.0.0.9000
+Imports: config (>= 0.3.2), golem (>= 0.4.1), shiny (>= 1.8.1.1)
+MD5sum: aef21afd2c4390e083abf936377fa8a4
